@@ -1,0 +1,11 @@
+﻿<linker>
+	<assembly fullname="System.Runtime">
+		<type fullname="System.Runtime.Serialization.StreamingContext" preserve="all"/>
+		<type fullname="System.Runtime.Serialization.StreamingContextStates" preserve="all"/>
+	</assembly>
+	<assembly fullname="Newtonsoft.Json" preserve="all"/>
+	<assembly fullname="mscorlib" preserve="all"/>
+	<assembly fullname="System" preserve="all"/>
+	<assembly fullname="System.Core" preserve="all"/>
+	<assembly fullname="System.Xml" preserve="all"/>
+</linker>
