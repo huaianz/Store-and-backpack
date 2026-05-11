@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yx\\InventorySocketServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|d:\\yx\\inventorysocketserver\\inventorysocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|solutionrelative:inventorysocketserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|d:\\yx\\inventorysocketserver\\inventorysocketserver\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|solutionrelative:inventorysocketserver\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|d:\\yx\\inventorysocketserver\\inventorysocketserver\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|solutionrelative:inventorysocketserver\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|d:\\yx\\inventorysocketserver\\inventorysocketserver\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5ADF6E-CB9D-4AB5-B742-7B2A59AD2FAB}|InventorySocketServer\\InventorySocketServer.csproj|solutionrelative:inventorysocketserver\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketServer.cs",
+              "DocumentMoniker": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\SocketServer.cs",
+              "RelativeDocumentMoniker": "InventorySocketServer\\SocketServer.cs",
+              "ToolTip": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\SocketServer.cs",
+              "RelativeToolTip": "InventorySocketServer\\SocketServer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwLkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:46:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "InventorySocketServer\\DatabaseContext.cs",
+              "ToolTip": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\DatabaseContext.cs",
+              "RelativeToolTip": "InventorySocketServer\\DatabaseContext.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:45:07.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\Models.cs",
+              "RelativeDocumentMoniker": "InventorySocketServer\\Models.cs",
+              "ToolTip": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\Models.cs",
+              "RelativeToolTip": "InventorySocketServer\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:44:41.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySocketServer\\Program.cs",
+              "ToolTip": "D:\\yx\\InventorySocketServer\\InventorySocketServer\\Program.cs",
+              "RelativeToolTip": "InventorySocketServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T03:44:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
